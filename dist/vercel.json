@@ -1,0 +1,16 @@
+{
+ "cleanUrls": true,
+ "trailingSlash": true,
+ "redirects": [
+  {
+   "source": "/pt-br",
+   "destination": "/",
+   "permanent": false
+  },
+  {
+   "source": "/pt-br/",
+   "destination": "/",
+   "permanent": false
+  }
+ ]
+}
